@@ -1,49 +1,68 @@
-# 👋 Hi, I'm Poralla Nagaraju
+<div align="center">
 
-🎓 B.Tech CSE (AI & ML) Graduate — Siddhartha Institute of Engineering & Technology (JNTUH), 2025  
-💻 Full Stack Developer | ML/AI Enthusiast | Power BI Developer  
-📍 Hyderabad, India
+# Hi, I'm Poralla Nagaraju 👋
+
+### Full-Stack Developer · AI/ML Enthusiast · Power BI Developer
+
+<a href="https://porallanagaraju13.github.io/Naga/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Porallanagaraju13"><img src="https://komarev.com/ghpvc/?username=Porallanagaraju13&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" /></a>
+
+</div>
+
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=Porallanagaraju13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nagaraju's GitHub statistics" />
+
+## About me
+
+I'm a **B.Tech CSE (AI & ML) graduate** from Siddhartha Institute of Engineering & Technology (JNTUH, 2025), based in **Hyderabad, India**. I build practical web products and turn data into useful insights with machine learning and Power BI.
+
+- 🔭 Building full-stack applications and AI-powered tools
+- 🌱 Deepening my skills in React, Node.js, deep learning, and cloud deployment
+- 💡 Interested in NLP, computer vision, data science, and thoughtful product experiences
+- 🤝 Open to software development, data, and AI/ML opportunities
+- 🌐 Explore my work at [porallanagaraju13.github.io/Naga](https://porallanagaraju13.github.io/Naga/)
+
+<br clear="right" />
+
+## Tech toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,flask,java,mysql,git,github,vscode&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Node.js, Flask, Java, MySQL, Git, GitHub, VS Code" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+## Featured work
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [Job Match](https://github.com/Porallanagaraju13/Job-Match) | A job-matching web experience, live on Vercel. | TypeScript · Web development |
+| [WhatsApp CRM](https://github.com/Porallanagaraju13/Whatsapp-CRM) | A customer relationship management project for WhatsApp workflows. | Full stack · CRM |
+| [Stock Price Prediction](https://github.com/Porallanagaraju13/Stock-Price-Prediction-using-LSTM-with-Attention-Mechanism) | Forecasts stock closing prices from historical data. | Python · LSTM · Attention |
+| [Movie Recommender System](https://github.com/Porallanagaraju13/Movie-Recommended-System-Using-Python-with-Machine-Learning) | Recommends movies using machine-learning techniques. | Python · scikit-learn |
+| [Indian Agriculture Analysis](https://github.com/Porallanagaraju13/Power-BI-Driven-Exhaustive-Analysis-on-Indian-Agriculture-Sector) | An interactive exploration of India’s agriculture sector. | Power BI · Analytics |
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porallanagaraju13&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Porallanagaraju13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Let’s connect
+
+If you’re interested in collaborating on a web, data, or AI project, I’d love to hear from you.
+
+<p>
+  <a href="https://porallanagaraju13.github.io/Naga/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://github.com/Porallanagaraju13"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I'm currently working on **AI/ML projects and Full Stack web apps**
-- 🌱 Learning **React.js, Node.js, and Deep Learning**
-- 💡 Interested in **Data Science, NLP, and Computer Vision**
-- 📫 Reach me at: [your email here]
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python | JavaScript | HTML | CSS | SQL  
-**ML/AI:** TensorFlow | Keras | Scikit-learn | LSTM | NLP  
-**Web:** React | Node.js | Flask  
-**Data & BI:** Power BI | Pandas | NumPy | Matplotlib  
-**Tools:** Git | GitHub | Jupyter Notebook | VS Code
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Stock Price Prediction](https://github.com/Porallanagaraju13/Stock-Price-Prediction-using-LSTM-with-Attention-Mechanism) | Predict future stock prices using LSTM + Attention | Python, Keras |
-| [Movie Recommender System](https://github.com/Porallanagaraju13/Movie-Recommended-System-Using-Python-with-Machine-Learning) | ML-based movie recommendation engine | Python, Scikit-learn |
-| [AI Spam Classifier](https://github.com/Porallanagaraju13/AI-Spam-Classifier) | Email spam detection using ML | Python |
-| [Price Negotiation Chatbot](https://github.com/Porallanagaraju13/Chatbot-AI) | AI chatbot for price negotiation | Python |
-| [Indian Agriculture Analysis](https://github.com/Porallanagaraju13/Power-BI-Driven-Exhaustive-Analysis-on-Indian-Agriculture-Sector) | Power BI dashboard for agri data | Power BI |
-
----
-
-## 📊 GitHub Stats
-
-![Nagaraju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Porallanagaraju13&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Porallanagaraju13&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/nagaraju-poralla-13aab2248/))
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](nagarajuporalla13@gmail.com)
+<div align="center"><i>“Building useful things, one thoughtful commit at a time.”</i></div>
